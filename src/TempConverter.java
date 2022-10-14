@@ -50,7 +50,7 @@ public class TempConverter extends JFrame {
         fahrenRadio.setBounds(212, 62, 85, 24);
         contentPane.add(fahrenRadio);
 
-        JLabel lblTem = new JLabel("Tipos:");
+        JLabel lblTem = new JLabel("Para:");
         lblTem.setBounds(154, 49, 78, 16);
         contentPane.add(lblTem);
 
